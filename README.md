@@ -1,3 +1,5 @@
-### hi, i'm shehjad! 💭
+### Hey, I'm Shehjad! Nice to meet you 👋
 
-i'm a full stack/ml engineer studying math @ uwaterloo. currently on the hunt for a summer 2021 internship, recently a software engineer @ Goldman Sachs and previously a software engineer @ KPMG and data scientist @ RBC Capital Markets. I'm still learning (:
+I'm currently exploring new things and helping build neural networks to scale fine art production. Before that, I interned at Goldman Sachs, KPMG Lighthouse & RBC Capital Markets. I've also researched at McGill.
+
+In my spare time, I like to play guitar & produce music, read manga, travel, and play video games. I'm also interested in fashion and boxing :)
