@@ -1,6 +1,6 @@
 ### Hey, I'm Shehjad! Nice to meet you 👋
 
-🔭 I'm currently exploring new things and building generative adversarial networks to scale fine art production.
+🔭 I'm currently exploring new things and building generative adversarial networks at a startup.
 
 🕰️ Before that, I interned as a software engineer at Goldman Sachs, KPMG Lighthouse & RBC Capital Markets. I've also researched social media behavior and addressing loneliness for suicide prevention using deep learning at McGill.
 
