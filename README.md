@@ -1,6 +1,6 @@
 ### Hey, I'm Shehjad! Nice to meet you 👋
 
-🔭 I'm currently exploring new things and building quantitative strategies at an investment bank.
+🔭 I'm currently exploring new things and building out data infrastucture at an investment management firm.
 
 🕰️ Before that, I interned as a software engineer at Mercari, ThinkData Works & KPMG Lighthouse.
 
