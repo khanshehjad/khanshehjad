@@ -4,4 +4,4 @@
 
 🕰️ Before that, I interned as a software engineer at Microsoft, Goldman Sachs, Mercari, ThinkData Works & KPMG Lighthouse.
 
-🌱 In my spare time, I like to learn about music production, read manga, travel, and play video games (especially open-world RPGs) :)
+🌱 In my spare time, I like to learn about music production, read manga, travel, and play open-world RPGs :)
